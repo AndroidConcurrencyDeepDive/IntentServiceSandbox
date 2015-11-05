@@ -1,0 +1,16 @@
+
+# ignore OSX clutter
+.DS_*
+
+# ignore some local context
+/local.properties
+
+# ignore gradle artifacts
+/.gradle
+/build
+/captures
+
+# ignore Studio artifacts
+/.idea
+/*.iml
+
